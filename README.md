@@ -28,6 +28,7 @@ Send a GET request to `http://<your-ip>:<your-port>/` with the following paramet
 `mode`: (optional) (default: 0) Select one of the modes:   
 0 - text mode: gets the textContent value  
 1 - html mode: gets the innerHTML value  
+
 `regex`: (optional) You can specify a regular expression to further process the
 
 
