@@ -83,5 +83,5 @@ app.get("/",async (req,res)=>{
 
 app.listen(
     port,
-    ()=>console.log(`Running at Port ${port}`)
+    ()=>console.log(`Server started`)
 )
